@@ -1,3 +1,6 @@
+"use strict";
+//abilita tutte le funzionalità per il vecchio codice
+
 let user = "Tommaso";
 let message = "Questo è il mio primo programma in JS!";
 
